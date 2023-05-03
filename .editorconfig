@@ -1,0 +1,19 @@
+# top-most EditorConfig file
+root = true
+
+# 缩进风格
+[*]
+indent_style = space
+indent_size = 2
+
+# JavaScript 文件的缩进规范
+[*.js]
+indent_size = 2
+
+# TypeScript 文件的缩进规范
+[*.ts]
+indent_size = 2
+
+# JSON 文件的缩进规范
+[*.json]
+indent_size = 2
